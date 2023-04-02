@@ -1,4 +1,4 @@
-﻿namespace _2NumeroDePalavras
+﻿namespace _02NumeroDePalavras
 {
     internal class Program
     {

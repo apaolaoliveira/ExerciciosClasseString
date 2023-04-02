@@ -1,4 +1,4 @@
-﻿namespace _1TitleCase
+﻿namespace _01TitleCase
 {
     internal class Program
     {
